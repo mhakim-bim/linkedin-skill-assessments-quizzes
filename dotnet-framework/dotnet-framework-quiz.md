@@ -121,10 +121,10 @@
 
 #### Q18.What is an abstract class in .NET?
 
-- [ ] An abstract class provides a partial implementation for functionality and some abstract or virtual members that must be implemented by the inheriting entities. It can declare fields too.
+- [x] An abstract class provides a partial implementation for functionality and some abstract or virtual members that must be implemented by the inheriting entities. It can declare fields too.
 - [ ] An abstract class allows developers to create new classes that reuse, extend, and modify the behavior defined in other classes.
 - [ ] An abstract class is responsible for keeping track of what is actually executing and where each executing thread is.
-- [x] An abstract class declares a contract or behavior that implementing classes require. It may declare only properties, methods, and events with no access modifiers. All the declared members must be implemented.
+- [ ] An abstract class declares a contract or behavior that implementing classes require. It may declare only properties, methods, and events with no access modifiers. All the declared members must be implemented.
 
 #### Q19.What is the namespace for caching information in .NET?
 
@@ -207,8 +207,8 @@
 
 - [ ] Construct an HTTP request URI and an HTTPS request URI.
 - [ ] Invoke the GetCurrentApplicationCallbackUri method and construct an HTTPS request URI.
-- [ ] Invoke the AuthenticateAsync and GetCurrentApplicationCallbackUri methods.
-- [ ] Invoke the AuthenticateAsync method and construct an HTTPS request URI. //The requestUri parameter must be a HTTPS address and
+- [x] Invoke the AuthenticateAsync and GetCurrentApplicationCallbackUri methods.
+- [x] Invoke the AuthenticateAsync method and construct an HTTPS request URI. //The requestUri parameter must be a HTTPS address and
                                                                               //    You call the AuthenticateAsync method to 
                                                                               //  connect to the online identity provider and get an access token
 
