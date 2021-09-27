@@ -585,7 +585,7 @@ export class BioComponent { }
 <app-card><app-bio>Been around for four years.</app-bio></app-card>
 ```
 
-- [ ]
+- [x]
 
 ```javascript
  <app-card>
