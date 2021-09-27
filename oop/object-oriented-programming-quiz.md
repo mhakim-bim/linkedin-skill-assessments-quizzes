@@ -458,7 +458,7 @@ _NOTE_: I don't have 4th variant in my test, it changed to new 5th variant. Is i
 
 - [ ] Yes, the caller function needs to reflect the changes.
 - [ ] No, you should use a global variable instead.
-- [ ] No, changes will be automatically reflected in the calling function.
+- [x] No, changes will be automatically reflected in the calling function.
 - [ ] Yes, the object must be the same in the caller function.
 
 #### Q62. Why is inheritance ?
